@@ -1,0 +1,9 @@
+{
+    "finmoji": {
+        "license": "CC BY-NC-ND 4.0",
+        "homepage": "https://t.me/gigisarts",
+	    "description": "Stickerpack by GiGi.",
+        "src": "https://github.com/DarkShyMW/stickerpack/releases/download/V1/stickerpack.zip",
+        "src_sha256": "79c55d9f5adbac248c15c718e62d5c4217dc70914df4a58b4832445155e47792",
+        "files": "Doodly.json.json"
+}
